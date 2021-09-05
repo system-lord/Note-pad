@@ -1,4 +1,4 @@
-#note_pad
+#note-pad
 a very good sample to start this type of developing and being a good backend developer :)
 
 Steps on getting started
