@@ -1,9 +1,9 @@
-#note-pad
+#Note-pad
 
 
 Steps on getting started
 * Clone/Download Zip
 * Open with Visual Studio 
-* build and share it
+* Build and share it
 
-a very good sample to start this type of developing and being a good backend developer :)
+A very good sample to start this type of developing and being a good backend developer :)
